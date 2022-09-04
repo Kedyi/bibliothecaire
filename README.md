@@ -24,27 +24,24 @@
 
 Clone the project
 
-```bash
+bash
   git clone https://github.com/Kedyi/recommend-new.git
-```
+
 
 Go to the project directory
 
-```bash
+bash
   cd recommend_new
-```
+
 
 ### Install dependencies from requirements.txt
 ## Start the server
 
-```bash
+bash
   Flask --app app  run
-```
+
 
 ## Future Scopes:-
 - Adding Emotion based recommendation
 - Complete contact section.
 - Create a feedback section.
-
-
-
