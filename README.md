@@ -1,5 +1,4 @@
 # Recommend_NEW
-##  Cloud Community Hackday Project: A 48 Hours Community Hackathon organized by GDG Cloud Kolkata.
 ### The purpose of this book recommendation system is to predict buyer’s interest and recommend books to them accordingly. 
 
 # Properties:
