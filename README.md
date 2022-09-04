@@ -6,7 +6,7 @@
 ### "Recommend_NEW" can take into account many parameters like book content and book quality by filtering user reviews.
 
 
-## Functionalities and Features:
+## Functionalities and Features of Book recommendation system:
 
 |Well designed web pages| ![Screenshot (664)](https://user-images.githubusercontent.com/74545248/188308667-541c68aa-e451-41a5-a0f2-e566d5bf60fc.png)  | 
 |-----------| ------------- | 
