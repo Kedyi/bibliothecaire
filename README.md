@@ -11,9 +11,8 @@
 |Well designed web pages| ![Screenshot (664)](https://user-images.githubusercontent.com/74545248/188308667-541c68aa-e451-41a5-a0f2-e566d5bf60fc.png)  | 
 |-----------| ------------- | 
 | List of books recommended|  ![Screenshot (662)](https://user-images.githubusercontent.com/74545248/188308710-32fbc4ff-b7a7-4181-b672-32d6eda091d1.png) | 
-||               |
 |Recommendation Page| ![Screenshot (663)](https://user-images.githubusercontent.com/74545248/188308687-5999412c-a427-446e-b337-d314b4caf610.png)  | 
-||               |
+
 
 ## Tech Stack
 
