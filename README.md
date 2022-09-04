@@ -1,5 +1,5 @@
 # Recommend_NEW
-## MesoHacks
+## MesoHacks2022
 ### The purpose of this book recommendation system is to predict buyer’s interest and recommend books to them accordingly. 
 
 # Properties:
