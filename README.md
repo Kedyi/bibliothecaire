@@ -1,4 +1,5 @@
 # Recommend_NEW
+## Meso Hacks
 ### The purpose of this book recommendation system is to predict buyer’s interest and recommend books to them accordingly. 
 
 # Properties:
@@ -7,13 +8,12 @@
 
 ## Functionalities and Features:
 
-|Well designed web pages| ![Screenshot (633)](https://user-images.githubusercontent.com/93571457/185797979-928535c5-8e07-40f7-8893-b9908b1116d5.png)  | 
+|Well designed web pages| ![Screenshot (664)](https://user-images.githubusercontent.com/74545248/188308667-541c68aa-e451-41a5-a0f2-e566d5bf60fc.png)  | 
 |-----------| ------------- | 
 ||               |
-|Recommendation Page| ![Screenshot (634)](https://user-images.githubusercontent.com/93571457/185798127-7a7eabb1-33c2-463d-9a00-caeed6b6b80b.png)  | 
+| List of books recommended|  ![Screenshot (662)](https://user-images.githubusercontent.com/74545248/188308710-32fbc4ff-b7a7-4181-b672-32d6eda091d1.png) | 
+|Recommendation Page| ![Screenshot (663)](https://user-images.githubusercontent.com/74545248/188308687-5999412c-a427-446e-b337-d314b4caf610.png)  | 
 ||               |
-| List of books recommended|  ![Screenshot (635)](https://user-images.githubusercontent.com/93571457/185798140-d76ed3a4-6288-4eaf-8e74-6e14b7f661d9.png)  | 
-
 
 ## Tech Stack
 
