@@ -2,7 +2,7 @@
 ## MesoHacks2022
 ### The purpose of this book recommendation system is to predict buyer’s interest and recommend books to them accordingly. 
 
-# Properties:
+# Properties of the project:
 ### "Recommend_NEW" can take into account many parameters like book content and book quality by filtering user reviews.
 
 
