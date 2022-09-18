@@ -1,9 +1,9 @@
-# Recommend_NEW
+# bibliothecaire
 ## MesoHacks2022 Project
 ### The purpose of this book recommendation system is to predict buyer’s interest and recommend books to them accordingly. 
 
 # Properties of the project:
-### "Recommend_NEW" can take into account many parameters like book content and book quality by filtering user reviews.
+### "bibliothecaire" can take into account many parameters like book content and book quality by filtering user reviews.
 
 
 ## Functionalities and Features of Book recommendation system:
