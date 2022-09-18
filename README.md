@@ -24,7 +24,7 @@
 Clone the project
 
 bash
-  git clone https://github.com/Kedyi/recommend-new.git
+  git clone https://github.com/Kedyi/bibliothecaire.git
 
 
 Go to the project directory
