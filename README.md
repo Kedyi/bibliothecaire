@@ -4,7 +4,8 @@
 
 # Properties of the project:
 ### "bibliothecaire" can take into account many parameters like book content and book quality by filtering user reviews.
-
+## DEMO: 
+### Yotube link: https://www.youtube.com/watch?v=uoH_bgBDJ7U
 
 ## Functionalities and Features of Book recommendation system:
 
